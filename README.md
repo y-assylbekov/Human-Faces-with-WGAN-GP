@@ -29,7 +29,7 @@ The precise architectures for the generator and the discriminator are as shown b
 
 ## Training Details
 
-I used the same loss functions for the generator and the discriminator as in the WGAN-GP paper <a href="https://papers.nips.cc/paper/7159-improved-training-of-wasserstein-gans.pdf">[2]</a> by Gulrajani et al. We use the Adam optimizer with `learning_rate = 0.0002`, `beta_1 = 0.5` and `beta_2=0.9`. I trained the model with an NVIDIA K80 GPU.
+I used the same loss functions for the generator and the discriminator as in the WGAN-GP paper <a href="https://papers.nips.cc/paper/7159-improved-training-of-wasserstein-gans.pdf">[2]</a> by Gulrajani et al. We use the Adam optimizer with `learning_rate = 0.0002`, `beta_1 = 0.5` and `beta_2=0.9`. I trained the model with an NVIDIA K80 GPU for approximately 11 hours.
 
 ## Results
 

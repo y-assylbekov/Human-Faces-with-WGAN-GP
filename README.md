@@ -39,7 +39,7 @@ Below is the full training as a GIF for 100 epochs with images sampled after eve
 
 Images generated after 100 epochs look as follows:
 
-![alt text](https://github.com/yernat-assylbekov/Human-Faces-with-WGAN-GP/blob/master/images/image_at_epoch_100.png.png?raw=true)
+![alt text](https://github.com/yernat-assylbekov/Human-Faces-with-WGAN-GP/blob/master/images/image_at_epoch_100.png?raw=true)
 
 I expect that the results will be improved if one consider deeper generators.
 

@@ -41,7 +41,11 @@ Images generated after 100 epochs look as follows:
 
 ![alt text](https://github.com/yernat-assylbekov/Human-Faces-with-WGAN-GP/blob/master/images/image_at_epoch_100.png?raw=true)
 
-I expect that the results will be improved if one consider deeper generators.
+I expect that the results will be improved if one consider deeper generators.<br>
+
+Learning curve:
+
+![alt text](https://github.com/yernat-assylbekov/Human-Faces-with-WGAN-GP/blob/master/images/learning_curve.png?raw=true)
 
 ## References
 
